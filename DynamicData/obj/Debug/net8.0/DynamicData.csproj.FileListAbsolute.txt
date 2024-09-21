@@ -1,0 +1,14 @@
+C:\Users\efsane\Desktop\Micromarin\DynamicData\bin\Debug\net8.0\DynamicData.deps.json
+C:\Users\efsane\Desktop\Micromarin\DynamicData\bin\Debug\net8.0\DynamicData.dll
+C:\Users\efsane\Desktop\Micromarin\DynamicData\bin\Debug\net8.0\DynamicData.pdb
+C:\Users\efsane\Desktop\Micromarin\DynamicData\obj\Debug\net8.0\DynamicData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efsane\Desktop\Micromarin\DynamicData\obj\Debug\net8.0\DynamicData.AssemblyInfoInputs.cache
+C:\Users\efsane\Desktop\Micromarin\DynamicData\obj\Debug\net8.0\DynamicData.AssemblyInfo.cs
+C:\Users\efsane\Desktop\Micromarin\DynamicData\obj\Debug\net8.0\DynamicData.csproj.CoreCompileInputs.cache
+C:\Users\efsane\Desktop\Micromarin\DynamicData\obj\Debug\net8.0\DynamicData.dll
+C:\Users\efsane\Desktop\Micromarin\DynamicData\obj\Debug\net8.0\refint\DynamicData.dll
+C:\Users\efsane\Desktop\Micromarin\DynamicData\obj\Debug\net8.0\DynamicData.pdb
+C:\Users\efsane\Desktop\Micromarin\DynamicData\obj\Debug\net8.0\ref\DynamicData.dll
+C:\Users\efsane\Desktop\Micromarin\DynamicData\obj\Debug\net8.0\DynamicData.csproj.AssemblyReference.cache
+C:\Users\efsane\Desktop\Micromarin\DynamicData\bin\Debug\net8.0\DynamicData.runtimeconfig.json
+C:\Users\efsane\Desktop\Micromarin\DynamicData\obj\Debug\net8.0\DynamicData.genruntimeconfig.cache

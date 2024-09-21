@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicObjectCreationAPI", "DynamicObjectCreationAPI.csproj", "{6371B422-6168-451E-969C-5D9CE71A54E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicData", "..\DynamicData\DynamicData.csproj", "{169B4D99-58D6-4EA3-BCCA-DD6BB52BC6AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6371B422-6168-451E-969C-5D9CE71A54E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6371B422-6168-451E-969C-5D9CE71A54E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6371B422-6168-451E-969C-5D9CE71A54E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6371B422-6168-451E-969C-5D9CE71A54E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{169B4D99-58D6-4EA3-BCCA-DD6BB52BC6AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{169B4D99-58D6-4EA3-BCCA-DD6BB52BC6AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{169B4D99-58D6-4EA3-BCCA-DD6BB52BC6AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{169B4D99-58D6-4EA3-BCCA-DD6BB52BC6AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {868EF971-AEAF-48A7-958D-C9B8D77137A4}
+	EndGlobalSection
+EndGlobal
